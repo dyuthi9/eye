@@ -1,0 +1,7 @@
+{
+  "name": "Copy of EyeCare Voice Reminder",
+  "description": "A specialized eye medicine reminder app with high-quality Telugu and English voice synthesis, snooze functionality, and scheduled tracking.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
